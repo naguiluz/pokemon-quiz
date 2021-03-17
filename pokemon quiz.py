@@ -12,7 +12,7 @@ question_prompts = [
     "What badge do you get from Blaine?\n(a) Marsh Badge\n(b) Volcano Badge\n(c) Boulder Badge\n(d) Rainbow Badge\n\n",
     "What type is Scyther?\n(a) Bug/Flying\n(b) Grass\n(c) Bug/Grass\n(d) Bug\n\n",
     "How is Nidorina evolved into Nidoqueen?\n(a) Reach level 35\n(b) Trade\n(c) Reach level 40\n(d) Moon Stone\n\n",
-    "Which pokemon is exclusive to Pokemon Red?\n(a) Sandshrew\n(b) Mankey\n(c) Ekans\n(d) Psyduck\n\n",
+    "Which pokemon is exclusive to Pokemon Blue?\n(a) Sandshrew\n(b) Mankey\n(c) Ekans\n(d) Psyduck\n\n",
     "What item is used to activate elevators in the Rocket Hideout?\n(a) Secret Key\n(b) Card Key\n(c) Lift Key\n(d) Coin\n\n",
     "Which pokemon has the highest base speed?\n(a) Arbok\n(b) Fearow\n(c) Pidgeot\n(d) Butterfree\n\n",
     "Which pokemon is only female?\n(a) Jigglypuff\n(b) Ninetails\n(c) Rapidash\n(d) Kangaskhan\n\n"
